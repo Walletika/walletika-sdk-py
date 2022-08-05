@@ -3,8 +3,9 @@ Software development kit of walletika
 - Designed by: Walletika Team
 
 ## Requirements
-    import web3
-    import pyotp
+    pip install web3
+    pip install pyotp
+    pip install pycryptodome
     aescrypto: https://github.com/MahmoudKhalid/aescrypto
     aesdatabase: https://github.com/MahmoudKhalid/aesdatabase
 
